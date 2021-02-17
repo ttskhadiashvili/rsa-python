@@ -1,2 +1,2 @@
 # rsa-python
-RSA პითონი
+RSA პითონი - beta 
